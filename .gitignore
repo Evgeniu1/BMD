@@ -1,1 +1,6 @@
 ignore.txt
+*.DS_Store
+.ipynb_checkpoints
+lab1/.ipynb_checkpoints/Untitled-checkpoint.ipynb lab2/.ipynb_checkpoints/Untitled-checkpoint.ipynb lab2/.ipynb_checkpoints/lab2-checkpoint.ipynb lab3/.ipynb_checkpoints/Untitled-checkpoint.ipynb lab4/.ipynb_checkpoints/Task4-checkpoint.ipynb
+profile_default/
+ipython_config.py
